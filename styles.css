@@ -412,3 +412,7 @@ footer a:not(.nav-link) {
 .steps-container h2, p {
     margin-bottom: 0px;
 }
+
+.boris {
+    width: 60px;
+}
